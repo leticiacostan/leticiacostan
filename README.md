@@ -1,12 +1,6 @@
 - 👋 Hola, soy @leticiacostan
 - 👀 Estoy interesada en la programación y en analisis de datos
-- 🌱 Actualmente estoy estudiando varios cursos:
-  - De Google:
-    - Analista de datos
-    - Soporte TI
-    - Diseño y experiencia de UX
-  - De Bootcamp:
-    - De 0 a dev
+- 🌱 A lo largo de mi vida he realizado varios cursos y me encuentro inmersa en otros, aquí se podrá ver los proyectos que he ido realizanod.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
